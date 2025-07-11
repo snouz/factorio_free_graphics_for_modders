@@ -475,7 +475,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Unique Module Shapes](https://mods.factorio.com/mod/vovo-shaped-modules) | MIT | Vovosunt
 
-- []() |  | 
+- [Factorio HD](https://mods.factorio.com/user/Ingo_Igel) | GNU GPLv3 | Wube, Ingo_Igel
 
 - []() |  | 
 
