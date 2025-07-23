@@ -23,6 +23,8 @@ Or if those mods includes graphics packages (e.g. Space Exploration, Angel's...)
 
 - [fgardt's spritter](https://github.com/fgardt/factorio-spritter/releases) | Command-line sprite-related tool for factorio (split, assemble, optimize...)
 
+- [Hanodest's sprite preview and lua generator](https://hanodest.github.io/factorio_tools/sprite_preview/)
+
 - Screenshot tools: [Greenshot](https://getgreenshot.org/), [ShareX](https://getsharex.com/), [ScreenToGif](https://www.screentogif.com/) ...
 
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php) | Nice mass file renamer
