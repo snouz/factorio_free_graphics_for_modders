@@ -89,7 +89,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Realistic Fusion Power](https://mods.factorio.com/mod/RealisticFusionPower), [Abandoned v2.0](https://github.com/romner-set/realistic-fusion-dev) | Do What the Fuck You Want to Public License | Romner_set, YuokiTani, PreLeyZero
 
-- [Periodic Madness (TEST)](https://mods.factorio.com/mod/periodic-madness-test) | MIT | Mr.SmoothieHuman
+- [Periodic Madness](https://mods.factorio.com/mod/periodic-madness) | MIT | Mr.SmoothieHuman
 
 - [Brevven's mods (Titanium, Lead...)](https://mods.factorio.com/user/brevven) | MIT / CC-BY-SA | Brevven, snouz
 
@@ -479,15 +479,15 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Factorio HD](https://mods.factorio.com/user/Ingo_Igel) | GNU GPLv3 | Wube, Ingo_Igel
 
-- []() |  | 
+- [Foliax](https://mods.factorio.com/mod/foliax) | GNU GPLv3 | Crethor
 
-- []() |  | 
+- [My Dear Sprout](https://mods.factorio.com/mod/My_Dear_Sprout) | MIT | Pixy_Thief
 
-- []() |  | 
+- [Wind_Generator-gfxrestyle](https://mods.factorio.com/mod/Wind_Generator-gfxrestyle) | MIT | wavetrex
 
-- []() |  | 
+- [pirateship(Distant Shores)](https://mods.factorio.com/mod/pirateship) | MIT | micaalle
 
-- []() |  | 
+- [ZElectricVehicles](https://mods.factorio.com/mod/ZElectricVehicles) | MIT | snouz
 
 - []() |  | 
 
