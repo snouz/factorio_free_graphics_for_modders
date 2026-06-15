@@ -315,8 +315,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [Extra Storage Tank](https://mods.factorio.com/mod/extra-storage-tank) | MIT | Anicha
 
-- [Firework Rockets](https://mods.factorio.com/mod/firework_rockets_assets) | GNU LGPLv3 | heyqule, neogeo37
-
 - [Foodtorio](https://mods.factorio.com/mod/foodtorio) | MIT | MrEktidd
 
 - [Gleba Lab](https://mods.factorio.com/mod/gleba-lab) | MIT | LordMiguel
@@ -368,8 +366,6 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Void Chest +](https://mods.factorio.com/mod/VoidChestPlus) | MIT | snouz
 
 - [Petraspace](https://github.com/gamma-delta/petraspace) | MIT | Petrak@
-
-- [Among Us Character](https://mods.factorio.com/mod/AmongUsCharacter) | MIT | darkfrei, model by ThatAverageJoe
 
 - [Arachnids](https://mods.factorio.com/mod/Arachnids) | MIT | Aotenshin, Sobigdrasil
 
