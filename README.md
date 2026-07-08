@@ -379,8 +379,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ChemistryForYou](https://mods.factorio.com/mod/ChemistryForYou) | MIT | Timeken
 
-- [Colony Builder](https://mods.factorio.com/mod/ColonyBuilder) | MIT | BozeHendrik
-
 - [Concrete Lamppost](https://mods.factorio.com/mod/Concrete_Lamppost) | GNU GPLv3 | Klonan
 
 - [Concretexture](https://mods.factorio.com/mod/Concretexture) | MIT | GotLag, Kamsta99
