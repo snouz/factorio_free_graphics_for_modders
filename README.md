@@ -101,7 +101,7 @@ Example of a good credit line (it's polite to do that even when the license does
 - [Krastorio 2](https://mods.factorio.com/mod/Krastorio2Assets) | GNU LGPLv3 | Krastor, Linver, Raigard, snouz, BiusArt, GeneralEcchi
 - [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | GNU LGPLv3 | Krastor
 
-- [Sosciencity](https://mods.factorio.com/mod/sosciencity) [graphics](https://mods.factorio.com/mod/sosciencity-graphics) | CC BY-NC-SA 4.0 | tiriscef, Johanna Spieker, \_traum, some models by Yanaem, printable_models, azlyirnizam, snippysnappets, umar6419 (check credits)
+- [Sosciencity](https://mods.factorio.com/mod/sosciencity) [graphics](https://mods.factorio.com/mod/sosciencity-graphics) | CC BY | [CREDITS](https://git.gay/tirisabella/sosciencity-graphics/src/branch/master/CREDITS)
 
 - [Xander Mod](https://mods.factorio.com/mod/xander-mod) [graphics0](https://mods.factorio.com/mod/xander-mod-graphics-0) [graphics1](https://mods.factorio.com/mod/xander-mod-graphics-1)| GNU GPLv3 | Repofme1
 
