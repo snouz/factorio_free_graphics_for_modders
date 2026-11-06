@@ -483,6 +483,65 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ZElectricVehicles](https://mods.factorio.com/mod/ZElectricVehicles) | MIT | snouz
 
+
+
+- [Aquilo_Ofenhocker](https://mods.factorio.com/mod/Aquilo_Ofenhocker) | MIT | 
+- [better-belt-balancer](https://mods.factorio.com/mod/better-belt-balancer) | MIT | 
+- [cma-graphics](https://mods.factorio.com/mod/cma-graphics) | Public Domain)
+- [flame-tank](https://mods.factorio.com/mod/flame-tank) | GNU LGPLv3)
+- [matter_printer](https://mods.factorio.com/mod/matter_printer) | MIT | 
+- [nest-begoner](https://mods.factorio.com/mod/nest-begoner) | MIT | 
+- [plasma-duct](https://mods.factorio.com/mod/plasma-duct) | MIT | 
+- [precision-lignumis](https://mods.factorio.com/mod/precision-lignumis) | MIT | 
+- [RefinedNetworkStorage](https://mods.factorio.com/mod/RefinedNetworkStorage) | MIT | 
+- [RenaiTransportation](https://mods.factorio.com/mod/RenaiTransportation) | MIT | 
+- [Ricks-Car-Spaceship](https://mods.factorio.com/mod/Ricks-Car-Spaceship) | GNU GPLv3 | 
+- [RITEG](https://mods.factorio.com/mod/RITEG) | MIT | 
+- [RitnLumberjack](https://mods.factorio.com/mod/RitnLumberjack) | MIT | 
+- [RitnSmith](https://mods.factorio.com/mod/RitnSmith) | MIT | 
+- [router](https://mods.factorio.com/mod/router) | MIT | 
+- [Ships](https://mods.factorio.com/mod/Ships) | Public Domain)
+- [shrek](https://mods.factorio.com/mod/shrek) | MIT | 
+- [simply-bees](https://mods.factorio.com/mod/simply-bees) | MIT | 
+- [slp-dyson-sphere-reworked](https://mods.factorio.com/mod/slp-dyson-sphere-reworked) | MIT | 
+- [snouz_better_substation](https://mods.factorio.com/mod/snouz_better_substation) | MIT | 
+- [Soviet-Tesla-Coils](https://mods.factorio.com/mod/Soviet-Tesla-Coils) | MIT | 
+- [spoilage-scanner](https://mods.factorio.com/mod/spoilage-scanner) | MIT | 
+- [stargates-se](https://mods.factorio.com/mod/stargates-se) | GNU GPLv3 | 
+- [starry-sakura](https://mods.factorio.com/mod/starry-sakura) | GNU GPLv3 | 
+- [steamtrain](https://mods.factorio.com/mod/steamtrain) | GNU GPLv3 | 
+- [steamtrain-redux](https://mods.factorio.com/mod/steamtrain-redux) | MIT | 
+- [StrangeMatter](https://mods.factorio.com/mod/StrangeMatter) | MIT | 
+- [street-light-pole](https://mods.factorio.com/mod/street-light-pole) | Public Domain | 
+- [subterra](https://mods.factorio.com/mod/subterra) | MIT | 
+- [switch-button](https://mods.factorio.com/mod/switch-button) | MIT | 
+- [thermal_vent](https://mods.factorio.com/mod/thermal_vent) | MIT | 
+- [TjAirCleaner](https://mods.factorio.com/mod/TjAirCleaner) | CC-BY)
+- [TjCuteBiters](https://mods.factorio.com/mod/TjCuteBiters) | CC-BY)
+- [transplutonic](https://mods.factorio.com/mod/transplutonic) | MIT | 
+- [TurretAlpha](https://mods.factorio.com/mod/TurretAlpha) | MIT | 
+- [tycoon](https://mods.factorio.com/mod/tycoon) | GNU GPLv3 | 
+- [UberDrill](https://mods.factorio.com/mod/UberDrill) | MIT | 
+- [VerticalAxisWindTurbines](https://mods.factorio.com/mod/VerticalAxisWindTurbines) | MIT | 
+- [void-miners](https://mods.factorio.com/mod/void-miners) | MIT | 
+- [vovo-shaped-modules](https://mods.factorio.com/mod/vovo-shaped-modules) | MIT | 
+- [vwtransporter](https://mods.factorio.com/mod/vwtransporter) | MIT | 
+- [walkable-beacons](https://mods.factorio.com/mod/walkable-beacons) | MIT | 
+- [Watergenerator248k](https://mods.factorio.com/mod/Watergenerator248k) | MIT | 
+- [windturbines-redux](https://mods.factorio.com/mod/windturbines-redux) | CC BY-SA | 
+- [wireless-signals](https://mods.factorio.com/mod/wireless-signals) | GNU LGPLv3 | 
+- [xmas-feels](https://mods.factorio.com/mod/xmas-feels) | MIT | 
+- [ZElectricVehicles](https://mods.factorio.com/mod/ZElectricVehicles) | MIT | 
+- [ZombieHorde](https://mods.factorio.com/mod/ZombieHorde) | MIT | 
+- [ZombieHordeFaction](https://mods.factorio.com/mod/ZombieHordeFaction) | MIT | 
+- [zoo-animal](https://mods.factorio.com/mod/zoo-animal) | MIT | 
+
+
+
+
+
+
+
 - []() |  | 
 
 - []() |  | 
