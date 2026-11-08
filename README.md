@@ -95,7 +95,7 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - Exotic Space Industries: [1](https://mods.factorio.com/mod/exotic-space-industries-graphics-1) [2](https://mods.factorio.com/mod/exotic-space-industries-graphics-2) [3](https://mods.factorio.com/mod/exotic-space-industries-graphics-3) | GNU GPLv3 | PreLeyZero, eliont
 
-- [Factorio+](https://mods.factorio.com/mod/factorioplus) | MIT | fishbus
+- [Factorio+](https://mods.factorio.com/mod/factorioplus) | GNU GPLv3 | fishbus
 
 - [Krastorio 1](https://mods.factorio.com/mod/Krastorio-graphics) | GNU LGPLv3 | Krastor, Linver
 - [Krastorio 2](https://mods.factorio.com/mod/Krastorio2Assets) | GNU LGPLv3 | Krastor, Linver, Raigard, snouz, BiusArt, GeneralEcchi
