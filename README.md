@@ -483,8 +483,6 @@ Example of a good credit line (it's polite to do that even when the license does
 
 - [ZElectricVehicles](https://mods.factorio.com/mod/ZElectricVehicles) | MIT | snouz
 
-
-
 - [Aquilo_Ofenhocker](https://mods.factorio.com/mod/Aquilo_Ofenhocker) | MIT | 
 - [better-belt-balancer](https://mods.factorio.com/mod/better-belt-balancer) | MIT | 
 - [cma-graphics](https://mods.factorio.com/mod/cma-graphics) | Public Domain)
@@ -531,46 +529,72 @@ Example of a good credit line (it's polite to do that even when the license does
 - [windturbines-redux](https://mods.factorio.com/mod/windturbines-redux) | CC BY-SA | 
 - [wireless-signals](https://mods.factorio.com/mod/wireless-signals) | GNU LGPLv3 | 
 - [xmas-feels](https://mods.factorio.com/mod/xmas-feels) | MIT | 
-- [ZElectricVehicles](https://mods.factorio.com/mod/ZElectricVehicles) | MIT | 
 - [ZombieHorde](https://mods.factorio.com/mod/ZombieHorde) | MIT | 
 - [ZombieHordeFaction](https://mods.factorio.com/mod/ZombieHordeFaction) | MIT | 
 - [zoo-animal](https://mods.factorio.com/mod/zoo-animal) | MIT | 
+- [corrundum](https://mods.factorio.com/mod/corrundum) | MIT | 
+- [cubium](https://mods.factorio.com/mod/cubium) | MIT | 
+- [lignumis-assets](https://mods.factorio.com/mod/lignumis-assets) | GNU GPLv3 | 
+- [maraxsis](https://mods.factorio.com/mod/maraxsis) | MIT | 
+- [Moshine-assets](https://mods.factorio.com/mod/Moshine-assets) | MIT | snouz, dome by Talandar, other kitbash credits on page
+- [muluna-graphics](https://mods.factorio.com/mod/muluna-graphics) | MIT | 
+- [panglia_planet_assets](https://mods.factorio.com/mod/panglia_planet_assets) | MIT | snouz
+- [Paracelsin-Graphics](https://mods.factorio.com/mod/Paracelsin-Graphics) | MIT | 
+- [planetaris-arig](https://mods.factorio.com/mod/planetaris-arig) | GNU GPLv3 | 
+- [planetaris-hyarion](https://mods.factorio.com/mod/planetaris-hyarion) | GNU GPLv3 | 
+- [planetaris-tellus](https://mods.factorio.com/mod/planetaris-tellus) | MIT | 
+- [Pyroclast](https://mods.factorio.com/mod/Pyroclast) | MIT | 
+- [secretas](https://mods.factorio.com/mod/secretas) | MIT | 
+- [tenebris-prime](https://mods.factorio.com/mod/tenebris-prime) | MIT | 
+- [yi_railway](https://mods.factorio.com/mod/yi_railway) | CC BY-NC-SA | 
+- [z_yira_american](https://mods.factorio.com/mod/z_yira_american) | CC BY-NC-SA | 
+- [z_yira_UP](https://mods.factorio.com/mod/z_yira_UP) | CC BY-NC-SA | 
+- [z_yira_yuokirails](https://mods.factorio.com/mod/z_yira_yuokirails) | CC BY-NC-SA | 
+- [apia](https://mods.factorio.com/mod/apia) | MIT | 
+- [aquilite-little-heater](https://mods.factorio.com/mod/aquilite-little-heater) | MIT | 
+- [assets-eneas](https://mods.factorio.com/mod/assets-eneas) | MIT | 
+- [autonomous-expeditions](https://mods.factorio.com/mod/autonomous-expeditions) | MIT | 
+- [big-wooden-pole2](https://mods.factorio.com/mod/big-wooden-pole2) | GNU GPLv3 | 
+- [birdengineer](https://mods.factorio.com/mod/birdengineer) | GNU LGPLv3 | 
+- [carna](https://mods.factorio.com/mod/carna) | GNU GPLv3 | 
+- [cbs-electric-steel-furnace](https://mods.factorio.com/mod/cbs-electric-steel-furnace) | MIT | 
+- [container-cargo-ship](https://mods.factorio.com/mod/container-cargo-ship) | Apache | 
+- [crossbow-120mm-mortar](https://mods.factorio.com/mod/crossbow-120mm-mortar) | MIT | 
+- [directional-sniper-turret](https://mods.factorio.com/mod/directional-sniper-turret) | MIT | 
+- [faccompress](https://mods.factorio.com/mod/faccompress) | MIT | 
+- [factorioplus](https://mods.factorio.com/mod/factorioplus) | GNU GPLv3 | fishbus
+- [factorioplus-assets-turrets](https://mods.factorio.com/mod/factorioplus-assets-turrets) | GNU GPLv3 | fishbus
+- [factorioplus-assets-vehicles](https://mods.factorio.com/mod/factorioplus-assets-vehicles) | GNU GPLv3 | fishbus
+- [flamethrower-turret-wagon](https://mods.factorio.com/mod/flamethrower-turret-wagon) | MIT | 
+- [Fulgora_Replicators](https://mods.factorio.com/mod/Fulgora_Replicators) | MIT | 
+- [gear-girl-hr](https://mods.factorio.com/mod/gear-girl-hr) | CC BY-NC-SA | 
+- [gradus](https://mods.factorio.com/mod/gradus) | MIT | 
+- [Haystack](https://mods.factorio.com/mod/Haystack) | MIT | Klaudia
+- [house-fire-overhaul-mod](https://mods.factorio.com/mod/house-fire-overhaul-mod) | Public Domain | 
+- [jatz-distribution](https://mods.factorio.com/mod/jatz-distribution) | GNU LGPLv3 | 
+- [koboldengineer](https://mods.factorio.com/mod/koboldengineer) | MIT | 
+- [laser-fence](https://mods.factorio.com/mod/laser-fence) | MIT | 
+- [manifold](https://mods.factorio.com/mod/manifold) | MIT | 
+- [mimi-crystal-mining](https://mods.factorio.com/mod/mimi-crystal-mining) | GNU LGPLv3 | 
+- [mimi-graphics](https://mods.factorio.com/mod/mimi-graphics) | GNU LGPLv3 | 
+- [moon-eneas](https://mods.factorio.com/mod/moon-eneas) | GNU GPLv3 | 
+- [more-artillery](https://mods.factorio.com/mod/more-artillery) | MIT | 
+- [nulla](https://mods.factorio.com/mod/nulla) | MIT | 
+- [orbital-cannon](https://mods.factorio.com/mod/orbital-cannon) | MIT | 
+- [periodic-madness](https://mods.factorio.com/mod/periodic-madness) | MIT | 
+- [planet-ferrum](https://mods.factorio.com/mod/planet-ferrum) | GNU GPLv3 | 
+- [PlanetAthos](https://mods.factorio.com/mod/PlanetAthos) | MIT | 
+- [rabbasca-underground](https://mods.factorio.com/mod/rabbasca-underground) | MIT | 
+- [skewer_planet_vesta](https://mods.factorio.com/mod/skewer_planet_vesta) | GNU LGPLv3 | 
+- [spidertron-unit-07](https://mods.factorio.com/mod/spidertron-unit-07) | MIT | 
+- [usnr](https://mods.factorio.com/mod/usnr) | GNU LGPLv3 | 
+- [virentis](https://mods.factorio.com/mod/virentis) | MIT | 
+- [industrial-flywheels](https://mods.factorio.com/mod/industrial-flywheels) | MIT | Michalycz
 
 
+- [Osmo's graphics](https://osmo.codeberg.page/factorio-graphics/entities.html) | CC BY | Osmo
 
 
-
-
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
-
-- []() |  | 
 
 
 # Personal tips
